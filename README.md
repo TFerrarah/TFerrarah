@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello there 👋
+I'm Tommaso, someone who likes to put one's between zeros _if you know what i mean_.
 
-<!--
-**TFerrarah/TFerrarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Main interests
+- 📹 Video editing
+- 🥳 Content Creation
+- 🎮 Gaming
+- 👨‍💻 Programming
+- 🖥 Web and App design
 
-Here are some ideas to get you started:
+## ✍ I can write (In no particular order)
+- C++
+- Java
+- Python ⚡
+- Javascript ⚡
+- HTML
+- CSS
+- QPASM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤙🏻 Let's get in touch!
+- [YouTube](https://www.youtube.com/c/zForKio)
+- [Twitter](https://twitter.com/t_ferrarah)
+- [Instagram](https://instagram.com/tferrarah)
+- [Twitch](https://twitch.tv/forkio)
