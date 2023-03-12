@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm Tommaso, someone who likes to put one's between zeros _if you know what i mean_.
+I'm Tommaso, someone who likes to put one's between zeros _if you know what I mean_.
 
 ## 🎯 Main interests
 - 📹 Video editing
@@ -8,7 +8,7 @@ I'm Tommaso, someone who likes to put one's between zeros _if you know what i me
 - 👨‍💻 Programming
 - 🖥 Web and App design
 
-## ✍ I can write (In no particular order)
+## ✍ I can write
 - C++
 - Java
 - Python ⚡
@@ -18,7 +18,6 @@ I'm Tommaso, someone who likes to put one's between zeros _if you know what i me
 - QPASM
 
 ## 🤙🏻 Let's get in touch!
-- [YouTube](https://www.youtube.com/c/zForKio)
-- [Twitter](https://twitter.com/t_ferrarah)
+- [YouTube](https://www.youtube.com/@tomma_so)
 - [Instagram](https://instagram.com/tferrarah)
 - [Twitch](https://twitch.tv/forkio)
