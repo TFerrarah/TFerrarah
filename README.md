@@ -4,6 +4,7 @@ I'm Tommaso, someone who likes to put one's between zeros _if you know what I me
 ## 🎯 Main interests
 - 📹 Video editing
 - 🥳 Content Creation
+- 🔧 Automotive
 - 🎮 Gaming
 - 👨‍💻 Programming
 - 🖥 Web and App design
@@ -20,4 +21,3 @@ I'm Tommaso, someone who likes to put one's between zeros _if you know what I me
 ## 🤙🏻 Let's get in touch!
 - [YouTube](https://www.youtube.com/@tomma_so)
 - [Instagram](https://instagram.com/t_ferrarah)
-- [Twitch](https://twitch.tv/forkio)
