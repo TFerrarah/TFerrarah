@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm Tommaso, someone who likes to put one's between zeros _if you know what I mean_.
+I'm Tommaso, someone who likes to put ones between zeros _if you know what I mean_.
 
 ## 🎯 Main interests
 - 📹 Video editing
@@ -14,6 +14,7 @@ I'm Tommaso, someone who likes to put one's between zeros _if you know what I me
 - Java
 - Python ⚡
 - Javascript ⚡
+- Dart ⚡
 - HTML
 - CSS
 - QPASM
