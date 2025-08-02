@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm Tommaso, someone who likes to put ones between zeros _if you know what I mean_.
+I'm Tommaso, someone who likes to put ones between zeros.
 
 ## 🎯 Main interests
 - 📹 Video editing
